@@ -1,0 +1,22 @@
+
+                       M U N I N  -  M Y S Q L
+                      =========================
+
+
+Munin plugin for showing graphs of Percona MySQL Server 5.5 resource usage.
+
+
+INFORMATION
+------------
+
+This version is based on the original Ubuntu 10.04 mysql_ plugin for Munin.
+The patch was taken from https://github.com/kjellm/munin-mysql and converted to 
+match the older Ubuntu version.
+
+LINKS
+-----------
+
+  * https://github.com/kjellm/munin-mysql
+  * http://munin-monitoring.org/
+  * http://www.percona.com/software/percona-server/
+
